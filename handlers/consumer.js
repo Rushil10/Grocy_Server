@@ -1,4 +1,4 @@
-require('dotenv').config()
+
 const jwt = require('jsonwebtoken')
 const {connection} = require('../util/connect')
 
